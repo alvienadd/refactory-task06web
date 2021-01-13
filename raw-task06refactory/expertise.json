@@ -1,0 +1,40 @@
+{
+    "expertises": [
+      {
+        "id": 1,
+        "name":"React JS",
+        "category":"website",
+        "image":"https://github.com/alvienadd/raw-task06refactory/blob/master/expertise/reactjs.png?raw=true"
+      },
+      {
+        "id": 2,
+        "name":"Materialize",
+        "category":"website",
+        "image":"https://github.com/alvienadd/raw-task06refactory/blob/master/expertise/materialize.png?raw=true"
+      },
+      {
+        "id": 3,
+        "name":"Flutter",
+        "category":"Mobile Apps",
+        "image":"https://github.com/alvienadd/raw-task06refactory/blob/master/expertise/flutter.png?raw=true"
+      },
+      {
+        "id": 4,
+        "name":"B4A",
+        "category":"Mobile Apps",
+        "image":"https://github.com/alvienadd/raw-task06refactory/blob/master/expertise/b4a.png?raw=true"
+      },
+      {
+        "id": 5,
+        "name":"Visual C#",
+        "category":"Desktop",
+        "image":"https://github.com/alvienadd/raw-task06refactory/blob/master/expertise/csharp.png?raw=true"
+      },
+      {
+        "id": 6,
+        "name":"Visual Basic",
+        "category":"Desktop",
+        "image":"https://github.com/alvienadd/raw-task06refactory/blob/master/expertise/vba.png?raw=true"
+      }
+    ]
+  }

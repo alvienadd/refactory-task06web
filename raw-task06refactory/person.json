@@ -1,0 +1,24 @@
+{
+    "persons": [
+      {
+        "id": 1,
+        "name":"Alvien",
+        "category":"Web Developer"
+      },
+      {
+        "id": 2,
+        "name":"Brian",
+        "category":"Mobile Developer"
+      },
+      {
+        "id": 3,
+        "name":"Stanley",
+        "category":"Desktop Developer"
+      },
+      {
+        "id": 4,
+        "name":"Leon",
+        "category":"Quality Assurance"
+      }
+    ]
+  }
